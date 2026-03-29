@@ -6,3 +6,5 @@
 - Thanks for visiting my repo :)
 
 - Here's the link of the resource -
+https://docs.google.com/document/d/1CuKacG3lnnt5B-7kB9p1DiJ2PLFW8TQWn9JG1lTYRJs/edit?usp=sharing
+HAPPY CODING :)
